@@ -23,7 +23,7 @@
       </div>
     </div>
     <Slide class="slidingDrawer" :closeOnNavigation="true">
-      <a v-for="(navlink, index) in navlinks" :key="index" :href="navlink.link">
+      <a target="_blank" v-for="(navlink, index) in navlinks" :key="index" :href="navlink.link">
         <span>{{ navlink.text }}</span>
       </a>
     </Slide>
