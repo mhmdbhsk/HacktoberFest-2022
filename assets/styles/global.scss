@@ -1,0 +1,104 @@
+@import './setup/reset';
+@import './setup/normalize';
+@import './setup/mixins';
+@import './setup/layout';
+
+@font-face {
+  font-family: "Segoe UI";
+  src: local("Segoe-UI.ttf"), url(~assets/fonts/Segoe-UI.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Segoe UI Bold";
+  src: local("Segoe-UI-Bold.ttf"),
+    url(~assets/fonts/Segoe-UI-Bold.ttf) format("truetype");
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  max-width: 100vw;
+}
+
+.hide-small {
+  @include respond-below(sm) {
+    display: none;
+  }
+}
+
+.no-extend {
+  @media (min-width: 1440px) {
+    max-width: 1440px;
+    margin: auto;
+  }
+}
+
+.content-section {
+  margin: 4rem 0 1rem 0;
+}
+
+$max: 24;
+
+@for $val from 0 to $max {
+  $degrees: $val * 15;
+  @keyframes spin-#{$degrees} {
+    from {
+      transform: rotate(#{$degrees}deg);
+    }
+    to {
+      transform: rotate(#{$degrees + 360}deg);
+    }
+  }
+
+  @keyframes neg-spin-#{$degrees} {
+    0% {
+      transform: rotate(-#{$degrees}deg);
+    }
+    100% {
+      transform: rotate(-#{$degrees + 360}deg);
+    }
+  }
+}
+
+@for $val from 0 to $max {
+  $degrees: $val * 15;
+  .rot-#{$degrees} {
+    &.contributor-card {
+      .picture-wrapper {
+        -webkit-transform: rotate(#{$degrees}deg);
+        -moz-transform: rotate(#{$degrees}deg);
+        -ms-transform: rotate(#{$degrees}deg);
+        -o-transform: rotate(#{$degrees}deg);
+        transform: rotate(#{$degrees}deg);
+
+        zoom: 1;
+
+        .profile-pic {
+          -webkit-transform: rotate(-#{$degrees}deg);
+          -moz-transform: rotate(-#{$degrees}deg);
+          -ms-transform: rotate(-#{$degrees}deg);
+          -o-transform: rotate(-#{$degrees}deg);
+          transform: rotate(-#{$degrees}deg);
+
+          zoom: 1;
+        }
+      }
+
+      &:hover {
+        .picture-wrapper {
+          animation: spin-#{$degrees} 3s infinite linear;
+          .profile-pic {
+            animation: neg-spin-#{$degrees} 3s infinite linear;
+          }
+        }
+      }
+    }
+  }
+}
+
+.smooth-transition,
+.smooth-transition:hover {
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
