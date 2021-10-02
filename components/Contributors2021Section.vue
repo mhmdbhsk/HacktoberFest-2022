@@ -64,7 +64,7 @@ export default {
         },
         {
           name: "Prateek Gupta",
-          url: "linkedin.com/in/prateek-gupta-a600b6128",
+          url: "https://linkedin.com/in/prateek-gupta-a600b6128",
           picture: require("~/assets/Contributors/Prateek.jpeg"),
           description: "Fullstack developer | cloud enthusiast | FreeLancer",
         },
@@ -77,7 +77,7 @@ export default {
         },
         {
           name: "Sudeep Deysarker",
-          url: "www.linkedin.com/in/sudeep-deysarker",
+          url: "https://www.linkedin.com/in/sudeep-deysarker",
           picture: require("~/assets/Contributors/lunaticsatoshi.jpg"),
           description:
             "Software Engineer | Full stack Developer | Android Developer | ML Enthusiast"
