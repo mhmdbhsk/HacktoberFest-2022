@@ -116,6 +116,13 @@ export default {
           description:
             "Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador | Traveler | Foodie",
         },
+        {
+          name: "Bhavesh Goyal",
+          url: "https://www.linkedin.com/in/bhaveshgoyal182",
+          picture: require("~/assets/Contributors/Bhaveshgoyal182.jpg"),
+          description:
+            "Junior | DevRel Enthusiast | Aspiring Full Stack Developer | Ex-Android Facilitator"
+        },
 
         // Add you data here in the above format, don't change the existing order
       ],

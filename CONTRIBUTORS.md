@@ -58,3 +58,9 @@
 - Place: Delhi, India
 - Bio: Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador | Traveler | Foodie
 - LinkedIn: [Manav Bansal](https://www.linkedin.com/in/manavbansal11031998/)
+
+#### Name: [Bhavesh Goyal](https://github.com/bhaveshgoyal182)
+
+- Place: India
+- Bio: Junior | DevRel Enthusiast | Aspiring Full Stack Developer
+- LinkedIn: [Bhavesh](https://www.linkedin.com/in/bhaveshgoyal182/)
