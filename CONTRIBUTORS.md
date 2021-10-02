@@ -22,3 +22,8 @@
 - Bio: Web Developer
 - LinkedIn: [Vaibhav Jamwal](https://www.linkedin.com/in/vaibhav-jamwal-4ba292194/)
 
+#### Name: [Sudeep Deysarker](https://github.com/Lunaticsatoshi)
+
+- Place: India
+- Bio: Software Engineer | Full stack Developer | Android Developer | ML Enthusiast
+- LinkedIn: [Sudeep Deysarker](www.linkedin.com/in/sudeep-deysarker)
