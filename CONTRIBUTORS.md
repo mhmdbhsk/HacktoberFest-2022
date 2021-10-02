@@ -10,6 +10,12 @@
 - Bio: Graphic Designer At Godwill Planners | Flutter Developer | Game Developer | FreeLancer
 - LinkedIn: [Manav Arora](https://www.linkedin.com/in/manav-arora-0090b5202/)
 
+#### Name: [Aayush Kumar](https://github.com/Resolution-1)
+
+- Place: India
+- Bio: Full Stack Developer | Ds-Algo | Android Lead at Google DSC NMIT
+- LinkedIn: [Aayush Kumar](https://www.linkedin.com/in/aayushkum/)
+
 #### Name: [Prateek Gupta](https://github.com/Prateekg2050)
 
 - Place: India
