@@ -128,6 +128,13 @@ export default {
           picture: require("~/assets/Contributors/narayan_soni.png"),
           description: "Competitive coder | Freelancer | Open Source and Tech Enthusiast | ML Enthusiast"
         },
+        {
+          name: "Sriniketh J",
+          url: "https://www.linkedin.com/in/sriniketh-jayasendil/",
+          picture: require("~/assets/Contributors/Sriniketh.jpg"),
+          description:
+            "DS & ML Enthusiast | Learning WebDev | Sophomore at PSG iTech | GWOC- Contributor | HTF Evangelist | DS Intern @LGM @ TSF | Ninja Entrepreneur | CA@E-Cell, TechFest, MoodIndigo IIT-Bombay"
+        },
 
         // Add you data here in the above format, don't change the existing order
       ],
