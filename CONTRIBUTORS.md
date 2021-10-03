@@ -87,3 +87,9 @@
 - Place: India
 - Robotics Engineer | Full Stack Developer | Keen learner | DSC Lead Web Development 
 - LinkedIn: [Prakhar Sharma](https://www.linkedin.com/in/prakhar-sharma-2206/)
+
+#### Name: [Kushaggra Sharma](https://github.com/Kushaggra)
+
+- Place: India
+- Software Engineer | Full Stack Developer | Open Source enthusiast 
+- LinkedIn: [Kushaggra Sharma](https://www.linkedin.com/in/kushaggra-sharma/)
