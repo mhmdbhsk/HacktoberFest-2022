@@ -163,6 +163,14 @@ export default {
           description:
             "Web Developer | Software Engineer | ML Enthusiast "
         },
+        {
+          name: "Mrunank Pawar",
+          url: "https://www.linkedin.com/in/mrunankpawar/",
+          picture: require("~/assets/Contributors/mrunank.PNG"),
+          description:
+            "Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead"
+        },
+
         // Add you data here in the above format, don't change the existing order
       ],
     };

@@ -94,9 +94,14 @@
 - Software Engineer | Full Stack Developer | Open Source enthusiast 
 - LinkedIn: [Kushaggra Sharma](https://www.linkedin.com/in/kushaggra-sharma/)
 
-
 #### Name: [Bhaskar Sharma](https://github.com/Hoodooloo)
 
 - Place: India
 - Bio: Web Developer | Software Engineer | ML Enthusiast
 - LinkedIn: [Bhaskar Sharma](https://www.linkedin.com/in/hoodooloo/)
+
+#### Name: [Mrunank Pawar](https://github.com/mrunankpawar)
+
+- Place: India
+- Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead
+- LinkedIn: [Mrunank Pawar](https://www.linkedin.com/in/mrunankpawar/)
