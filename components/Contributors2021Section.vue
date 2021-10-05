@@ -177,7 +177,6 @@ export default {
           description:
             "Robotics Engineer | Backend Developer | Machine Learning Developer | GSWOC contributor"
         },
-
         {
           name: "Sneha Sachdeva",
           url: "https://www.linkedin.com/in/sneha-sachdeva-5129501b0/",
@@ -185,7 +184,13 @@ export default {
           description:
            "Student | Backend Intern at StartLadder| Tech Enthusiast"
         },
-
+        {
+          name: "Chirag Goel",
+          url: "https://www.linkedin.com/in/chirag-goel-b578841b9/",
+          picture: require("~/assets/Contributors/Chirag.jpg"),
+          description:
+            "Student | MERN Stack developer | GWOC- Contributor"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };

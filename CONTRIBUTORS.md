@@ -117,3 +117,9 @@
 - Place: India
 - Robotics Engineer | Backend Developer | Machine Learning Developer | GSWOC contributor 
 - LinkedIn: [Kuwar Kapur](https://www.linkedin.com/in/kuwar-kapur-936aa0183/)
+
+#### Name: [Chirag Goel](https://github.com/Chirag-creator17)
+
+- Place: India
+- Student | MERN Stack developer | GWOC- Contributor
+- LinkedIn: [Chirag Goel](https://www.linkedin.com/in/chirag-goel-b578841b9/)
