@@ -105,3 +105,9 @@
 - Place: India
 - Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead
 - LinkedIn: [Mrunank Pawar](https://www.linkedin.com/in/mrunankpawar/)
+
+#### Name: [Kuwar Kapur](https://github.com/kuwarkapur)
+
+- Place: India
+- Robotics Engineer | Backend Developer | Machine Learning Developer | GSWOC contributor 
+- LinkedIn: [Kuwar Kapur](https://www.linkedin.com/in/kuwar-kapur-936aa0183/)
