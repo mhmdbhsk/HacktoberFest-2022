@@ -135,3 +135,9 @@
 - Place: India
 - Student | GWOC- Contributor || Competitive Programmer || Open Source Enthusiast
 - LinkedIn: [Aman Gupta](https://www.linkedin.com/in/aman-gupta12207/)
+
+#### Name: [Mayank Jain](https://github.com/Mayankjain301001)
+
+- Place: India
+- Competitive Programmer | Web Developer | Software Engineer
+- LinkedIn: [Mayank Jain](https://www.linkedin.com/in/mayank-jain-4927a3191/)
