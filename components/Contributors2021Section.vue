@@ -211,7 +211,13 @@ export default {
           description:
             "Competitive Programmer | Web Developer | Software Development Engineer"
         },
-
+        {
+          name: "Azra Muhammad Bhaskarogra",
+          url: "https://www.linkedin.com/in/mhmdbhsk/",
+          picture: require("~/assets/Contributors/mhmdbhsk.png"),
+          description:
+            "Developer | Network Enthusiast | Linux Enthusiast | UI/UX Enthusiast | Cyber Security Enthusiast"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };
