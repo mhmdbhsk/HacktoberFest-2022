@@ -147,3 +147,9 @@
 - Place: India
 - Web Developer | Competitive Programmer | Google Cloud Facilitator
 - LinkedIn: [Kratika Gupta](https://www.linkedin.com/in/kratika-gupta-7495221a5/)
+
+#### Name: [Zakariya Khan](https://github.com/Ardent10)
+
+- Place: New Delhi, India
+- Student | Web Developer | Open Source Enthusiast | Programmer | Footballer
+- LinkedIn: [Zakariya Khan](https://www.linkedin.com/in/zakariya-khan-590281137/)
