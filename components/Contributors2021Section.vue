@@ -232,6 +232,13 @@ export default {
           description:
             "Student || Competitive Programmer || Open Source Enthusiast"
         },
+        {
+          name: "Rhian Felipe",
+          url: "https://www.linkedin.com/in/rhian-felipe-silva-de-lara-1316311ab/",
+          picture: require("~/assets/Contributors/RhianFelipe.jpg"),
+          description:
+            "Frontend Web Developer | MD3 Developer | Future Computer Scientist"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };

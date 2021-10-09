@@ -159,3 +159,10 @@
 - Place: India
 - Student || Competitive Programmer || Open Source Enthusiast
 - LinkedIn: [Palak Yadav](https://www.linkedin.com/in/palak-yadav-5901171a1/)
+
+#### Name: [Rhian Felipe](https://github.com/RhianFelipe)
+
+- Place: Brasil
+- Bio: Frontend Web Developer | MD3 Developer | Future Computer Scientist
+- LinkedIn: [Rhian Felipe](https://www.linkedin.com/in/rhian-felipe-silva-de-lara-1316311ab/)
+
