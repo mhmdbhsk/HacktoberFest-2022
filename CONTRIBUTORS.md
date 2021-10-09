@@ -153,3 +153,9 @@
 - Place: New Delhi, India
 - Student | Web Developer | Open Source Enthusiast | Programmer | Footballer
 - LinkedIn: [Zakariya Khan](https://www.linkedin.com/in/zakariya-khan-590281137/)
+
+#### Name: [Palak Yadav](https://github.com/palakyadav1807)
+
+- Place: India
+- Student || Competitive Programmer || Open Source Enthusiast
+- LinkedIn: [Palak Yadav](https://www.linkedin.com/in/palak-yadav-5901171a1/)
