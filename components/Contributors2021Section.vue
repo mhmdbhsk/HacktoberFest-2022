@@ -225,13 +225,6 @@ export default {
           description:
             " Programmer | Web Developer | Open Source Enthusiast | Footballer "
         },
-		{
-          name: "Kriti Pashine",
-          url: "https://www.linkedin.com/in/kriti-pashine-a66980202/",
-          picture: require("~/assets/Contributors/Kriti-999.jpg"),
-          description:
-            "Student ||Programmer || Open Source Enthusiast|| Frontend Developer"
-        },
         {
           name: "Palak Yadav",
           url: "https://www.linkedin.com/in/palak-yadav-5901171a1/",
@@ -266,6 +259,20 @@ export default {
           picture: require("~/assets/Contributors/headstylecolorred.jpg"),
           description:
             "Developer | Climbing Enthusiast | SwiftUI freak | Always learning"
+        },
+		    {
+          name: "Kriti Pashine",
+          url: "https://www.linkedin.com/in/kriti-pashine-a66980202/",
+          picture: require("~/assets/Contributors/Kriti-999.jpg"),
+          description:
+            "Student ||Programmer || Open Source Enthusiast|| Frontend Developer"
+        },
+        {
+          name: "Shubham Tribedi",
+          url: "https://www.linkedin.com/in/shubham-tribedi/",
+          picture: require("~/assets/Contributors/Shubham.png"),
+          description:
+            "GitHub Extern '21 | Community Specialist Unacademy | Open Source Enthusiast"
         },
         // Add you data here in the above format, don't change the existing order
       ],
