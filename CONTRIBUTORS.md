@@ -225,3 +225,9 @@
 - Place: India
 - Bio: Student | JavaScript Developer | Web Developer
 - LinkedIn: [Akash Sharma](https://www.linkedin.com/in/Akash-Sharmaa/)
+
+#### Name: [Farah Ahmadi](https://github.com/ray0emma)
+
+- Place: Morocco
+- Bio: Self-taught developer | Laravel Enthusiast | Web Developer
+- LinkedIn: [Farah Ahmadi](https://www.linkedin.com/in/farah-ahmadi/)

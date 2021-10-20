@@ -309,6 +309,13 @@ export default {
           description:
             "Student | JavaScript Developer | Web Developer"
         },
+        {
+          name: "Farah Ahmadi",
+          url: "https://www.linkedin.com/in/farah-ahmadi/",
+          picture: require("~/assets/Contributors/Farah.jpg"),
+          description:
+            "Self-taught developer | Laravel Enthusiast | Web Developer"
+        },
 
         // Add you data here in the above format, don't change the existing order
       ],
